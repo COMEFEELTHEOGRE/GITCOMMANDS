@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict line
+=======
+Different conflict line
+>>>>>>> develop
